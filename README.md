@@ -1,7 +1,6 @@
 <h1 align="center">Financial Analysis and Insights for SKYAI Stores</h1>
 
-<p align="center">
-    <img src="images/skyai_stores_banner.png" alt="Project Banner" width="600"/>
+
 </p>
 
 <p align="center">
@@ -26,15 +25,6 @@
     <li><strong>📈 Top-Selling Products:</strong> Products like VTT, Velo, and Paseo drove significant growth in the Midmarket and Government segments.</li>
 </ul>
 
-<h2>📈 Key Visualizations</h2>
-
-<div align="center">
-    <img src="images/sales_growth_chart.png" alt="Sales Growth" width="500" style="border-radius: 8px;"/>
-    <p><em>Figure 1: Yearly Sales Growth</em></p>
-    
-    <img src="images/profit_margin_region.png" alt="Profit Margin by Region" width="500" style="border-radius: 8px;"/>
-    <p><em>Figure 2: Profit Margin by Region</em></p>
-</div>
 
 <h2>💻 Technologies Used</h2>
 <ul>
@@ -45,8 +35,7 @@
 <h2>📂 Repository Structure</h2>
 <pre>
 ├── data/               # Dataset files
-├── notebooks/          # Jupyter notebooks for data processing and analysis
-├── images/             # Visual assets (charts, screenshots, etc.)
+├── images/             # Visual assets (pdf)
 └── README.md           # Project overview and setup instructions
 </pre>
 
@@ -54,7 +43,7 @@
 <p>To view the analysis:</p>
 <ol>
     <li>Clone the repository:
-        <pre>git clone https://github.com/yourusername/21ds-Sky.git</pre>
+        <pre>git clone https://github.com/21ds-Sky/Financial-Analysis-and-Insights-for-SKYAI-Stores-Using-Power-BI</pre>
     </li>
     <li>Open the Power BI file or Jupyter notebooks to explore the data and visualizations.</li>
 </ol>
