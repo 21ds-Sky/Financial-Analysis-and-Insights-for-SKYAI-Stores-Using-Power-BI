@@ -1,4 +1,4 @@
-<h1 align="center">Financial Analysis and Insights for SKYAI Stores</h1>
+![Project Banner](skyai_stores_banner.png)
 
 
 </p>
